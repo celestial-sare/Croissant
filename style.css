@@ -10,3 +10,7 @@ header,
 footer {
   text-align: center;
 }
+
+footer {
+  margin-inline-start: auto;
+}
