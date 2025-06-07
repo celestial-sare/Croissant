@@ -5,15 +5,9 @@ body {
     rgb(255, 232, 182) 90%
   );
 }
-h1 {
-  text-align: center;
-}
-p {
-  text-align: center;
-}
-header {
-  text-align: center;
-}
+h1,
+p,
+header,
 footer {
   text-align: center;
 }
